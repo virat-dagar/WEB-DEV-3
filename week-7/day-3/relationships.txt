@@ -1,0 +1,25 @@
+RELATIONSHIPS
+    |
+    |
+    |
+BOND / LINK
+    |
+    |
+    |
+TYPES OF RELATIONSHIPS
+    |
+    |
+    ____1-1 (user-user)
+    |
+    |
+    ____1-n (user - order)
+    |
+    |
+    ____n-1 (student - trainer)
+    |
+    |
+    ____n-n (course - student)
+    |
+    |
+    ____self reference (employee - manager)
+
